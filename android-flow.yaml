@@ -1,0 +1,11 @@
+appId: org.wikipedia
+clearState: true
+tags:
+  - android
+  - passing
+---
+- launchApp
+- assertVisible: "CONTINUE"
+- tapOn: "CONTINUE"
+- assertVisible: "We’ve found the following on your device:"
+
