@@ -1,0 +1,7 @@
+# Maestro
+.maestro/logs/
+.maestro/reports/
+.maestro/.bundle/
+*.mp4
+*.png
+

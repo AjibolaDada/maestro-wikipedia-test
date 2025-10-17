@@ -7,5 +7,6 @@ tags:
 - launchApp
 - assertVisible: "CONTINUE"
 - tapOn: "CONTINUE"
+- assertVisible: "WELCOME TO WIKIPEDIA"
 - assertVisible: "We’ve found the following on your device:"
 
